@@ -1,5 +1,7 @@
 <?php
-
+   
+   $validate_install = false;
+   $validate_login = false;
 
 ?>
 <!DOCTYPE html>
