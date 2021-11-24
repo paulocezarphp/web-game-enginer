@@ -14,6 +14,10 @@ class ManageFile{
 		
 	}
 
+	function create_path_directory($past_name){
+
+	}
+
 }
 
 ?>
