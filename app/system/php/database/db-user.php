@@ -2,15 +2,15 @@
 
 class DbUser{
 
-	function login_user(){
+	function login_user($id_user){
 
 	}
 
-	function logoff_user(){
+	function logoff_user($id_user){
 		
 	}
 
-	function create_user(){
+	function create_user($name, $login, $password){
 
 	}
 
