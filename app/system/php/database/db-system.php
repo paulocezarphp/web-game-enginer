@@ -2,6 +2,10 @@
 
 class DbSystem{
 
+	function edit_config(){
+
+	}
+
 	function create_project(){
 
 	}
