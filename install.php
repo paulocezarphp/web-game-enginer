@@ -13,7 +13,18 @@
 <body>
 
 	<?php
+         
+	if($validate_install == true){
+		
+		if($validate_login == true){
 
+		}else{
+			
+		}
+
+	}else{
+
+	}
 
 	?>
 

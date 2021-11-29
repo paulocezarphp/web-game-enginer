@@ -18,15 +18,15 @@ class DbUser{
 
 	}
 
-	function delete_user(){
+	function delete_user($id_user){
 
 	}
 
-	function block_user(){
+	function block_user($id_user){
 
 	}
 
-	function unlock_user(){
+	function unlock_user($id_user){
 
 	}
 

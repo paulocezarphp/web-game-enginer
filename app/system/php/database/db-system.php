@@ -2,6 +2,14 @@
 
 class DbSystem{
 
+	function system_install(){
+
+	}
+
+	function system_reboot(){
+		
+	}
+
 	function edit_config(){
 
 	}
