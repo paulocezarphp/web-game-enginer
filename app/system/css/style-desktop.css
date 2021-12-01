@@ -1,3 +1,12 @@
 body{ padding: 0px; margin: 0px; }
 
 .wbe-page{  }
+
+form{ margin: 0px; padding: 0px; }
+
+.wbe-container{ width: 1124px; }
+.wbe-container-fluid{ width: 100%; }
+.wbe-alinha-centro{ display: flex; justify-content: center; }
+.wbe-alinha-esquerda{ display: flex; justify-content: flex-start; }
+.wbe-alinha-direita{ display: flex; justify-content: flex-end; }
+.wbe-alinha-coluna-centro{ display: flex; justify-content: center; flex-direction: column; height: 100%;  }

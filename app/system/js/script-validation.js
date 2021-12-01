@@ -1,7 +1,6 @@
 function validate_name($name){
 
 	
-
 }
 
 function validate_email($email){
